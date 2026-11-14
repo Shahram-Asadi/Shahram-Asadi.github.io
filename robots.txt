@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /compare-animations.html
+Disallow: /compare-option-a.html
+
+Sitemap: https://shahram-asadi.github.io/sitemap.xml
