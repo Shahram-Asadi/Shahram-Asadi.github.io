@@ -3,4 +3,4 @@ Allow: /
 Disallow: /compare-animations.html
 Disallow: /compare-option-a.html
 
-Sitemap: https://shahram-asadi.github.io/sitemap.xml
+Sitemap: https://shahramasadi.com/sitemap.xml
